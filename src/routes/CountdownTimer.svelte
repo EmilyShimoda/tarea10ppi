@@ -78,7 +78,7 @@
   }
 </style>
 
-<div class="font-mono text-xl bg-[url('bg.jpg')] bg-center bg-cover h-screen w-screen flex justify-center items-center">
+<div class="font-mono text-xl bg-[url('/bg.jpg')] bg-center bg-cover h-screen w-screen flex justify-center items-center">
   <div class="bg-white h-[40%] w-[60%] rounded-xl flex flex-col justify-center items-center gap-5">
     <h2 class="text-2xl">Temporizador</h2>
 
